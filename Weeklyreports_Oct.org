@@ -1,0 +1,32 @@
+
+ #+title: Timesheet for Sripathi
+
+* OCTOBER 2014
+
+** Week 01 Summary [<2014-09-26 Mon> - <2014-10-10 Fri>]
+
+I have assigned to OVPL team on 2014-09-26 Fri. As I am begining to this team I took intiation to understand OVPL archietecture and then I started learning technologies with respect to the OVPL.
+
+** Activities were performed 
+
+1) As part of lik release I have prepared a document which explains OVPL dependencies script files.
+2) Learnt about tornado python web framework and logging module.
+3) Tirumala Sir told me to work on OVPL's python coding conventions I started look at conding conventions and learned.
+4) Given some basic idea to UI team about tornado server.
+5) Added comments to ControllerServer.py file with my understanding.
+
+
+
+** Week 02 Summary [<2014-10-13 Mon> - <2014-10-18 Fri>
+
+- I worked with Tirumala in writing Centralized logging code and I took his help in understanding code and he explained me how it works.
+- Next day I started Working on testing with partial Centralized logging code and it's done.
+- Meeting was conducted then to list out the tasks to be carried out ahead. I and Amulya was given the task to test the Centralized logging service. We were getting error while deploying the lab. we report it to Tirumala.
+
+** Week 03 [<2014-10-20 Mon> - <2014-10-24 Fri>]
+
+- I myself worked on whole saturday on debugging that error while deploying lab in Centralized logging code but it didn't worked out.
+- Given help to UI team in storing values in to mysql db using python and regarding tornado web server.
+- Took session on Git version control systems to Geetha, zubir and Vinutha.
+- Tirumala Sir assigned me the work on websockets. I read it and implimented partially.
+- I took leave on 27 th. 
