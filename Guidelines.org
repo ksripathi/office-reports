@@ -1,0 +1,43 @@
+#+TITLE: GUIDELINES TO NEW EMPLOYEE OF VLEAD
+#+AUTHOR: Sripathi Kammari
+#+DATE: 2014-09-28 Sun
+#+LATEX_HEADER: \hypersetup{hidelinks}
+
+* Introduction :
+ This document describes the process that one needs to follow as a new empoyee of VLEAD.
+ 
+* Getting ID card :
+- Meet Ms.Pushpalatha ma'am (Admin.Assis.,- SERC) near VLEAD conference room and get ID card by providing two photographs.
+* Opening SBH-bank salary account :
+Open new salary account at IIIT-H,SBH branch (inside campus) by providing following xerox document copies.
+- Appointment letter
+- ID card of VLEAD
+- Residential address proof
+- Any identity proof (Aadhar,Election card or PAN card)
+* Creation of vlab's email-id account :
+-  An email id with vlabs account should be created and added to vlead-staff@vlabs.ac.in. 
+-  Contact Amulya to get email-id. 
+* Creation of LDAP id :
+- An LDAP account should be created.This login will provide access to servers and access to this wiki page.
+- Contact Ishaan and Haneef to get LDAP account.
+* Access to VLEAD repository :
+- An individual is responsible to create github and bitbucket handles.
+- Please provide these to be added to various repositories for edit access. VLEAD is one such repository where weekly and monthly reports are saved. 
+- Contact Yogesh or Jayanth.
+* Technologies to be learned :
+ You should be familiar with the following technologies with respect to the VLEAD.
+- Familiar with Cent OS or( Ubuntu,Fedora,Debian).
+- Virtualization technologies (OpenVZ)
+- Version Control Systems (GIT)
+- VCS Online Repositories (GITHUB,BITBUCKET)
+* Daily SignIn & Weekly Reports :
+- It is mandatory that every engineer log 8 hours a day excluding lunch break. Research Assistants have to log 
+  the hours they are contracted for.
+- It is mandatory for VLEAD staff to attend the stand-up meeting every morning at 10.30 am. Also, every member must attend their respective team meetings as per schedule. 
+- VLEAD staff including engineers and research assistants must log the in-time and out-time in the register maintained in the VLEAD room. 
+- A weekly report has to be prepared every week and checked in to VLEAD repository (on bitbucket.vlead/tasks/timesheets) every Friday. 
+- A monthly report has to be prepared before 25th of every month and checked in to the same repository (vlead/tasks/timesheets/<month-name>). 
+* Leave Process :
+- All leaves must be planned in advance and communicated to the Program Manager and Project Manager.
+- VLEAD staff must fill out a Leave Application Form every time he/she applies or avails of a leave. 
+    
